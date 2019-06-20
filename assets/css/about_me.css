@@ -1,12 +1,13 @@
-/* GLOBAL STYLES
+GLOBAL STYLES
 * {
     box-sizing: border-box;
-    } */
+    text-align: center;
+    }
 
  body {
     background-color: #ffffff;
     font-family: Arial, Helvetica, 'Helvetica Neue', sans-serif;
-  
+    margin-left: 120px;
 }
  /*CSS Grid template names */
 
@@ -52,7 +53,8 @@
     width: 850px;
     margin-top: 0px;
     margin-bottom: 0px;
-    /* margin-left: 120px; */
+    margin-left: 120px;
+    margin-right: 30px;
     background-image: url(./dynamic-style.png);
 }
 
